@@ -7,4 +7,4 @@ Wait what, why did he send me a gif? And why is he shouting at me for sending a 
 I swear I sent him a photo. Please help me get the flag!
 
 TL;DR You are given two gifs which contain information for finding half part of a string each. Find the complete
-string and wrap it inside 'YoS{}' to get the flag.
+string and wrap it inside `'YoS{}'` to get the flag.
