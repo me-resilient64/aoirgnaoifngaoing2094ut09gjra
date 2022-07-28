@@ -8,4 +8,4 @@ get the flag! That is the password to get out of the cage."
 
 TL;DR take this zip file, unzip it(multiple times perhaps!) and using the output of the given
 script find the flag!
-The flag format is YoS{.*}
+The flag format is `YoS{.*}`
